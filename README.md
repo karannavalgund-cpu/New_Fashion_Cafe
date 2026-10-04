@@ -45,7 +45,7 @@ Deployed as a static site on Vercel. No build command or output directory is nee
 
 ## Demo Contact Details
 
-Phone: +91 90000 12345
+Phone: +91 XXXXX XXXXX
 Email: hello@newfashioncafe.example
 
 These are placeholders, not real contact details.
