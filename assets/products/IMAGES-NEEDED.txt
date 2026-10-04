@@ -1,0 +1,32 @@
+Add one photo per product here (JPG, ~800x1000, portrait). Exact file names:
+
+premium-oversized-t-shirt.jpg
+classic-black-t-shirt.jpg
+essential-white-t-shirt.jpg
+streetwear-graphic-tee.jpg
+premium-polo-t-shirt.jpg
+relaxed-fit-shirt.jpg
+denim-casual-shirt.jpg
+cotton-overshirt.jpg
+classic-blue-jeans.jpg
+black-slim-jeans.jpg
+cargo-utility-pants.jpg
+essential-hoodie.jpg
+premium-sweatshirt.jpg
+women-s-casual-top.jpg
+women-s-oversized-tee.jpg
+women-s-denim-jacket.jpg
+women-s-casual-dress.jpg
+women-s-kurti.jpg
+women-s-wide-leg-pants.jpg
+kids-graphic-t-shirt.jpg
+kids-casual-set.jpg
+kids-hoodie.jpg
+kids-denim-jeans.jpg
+printed-summer-t-shirt.jpg
+premium-casual-shirt.jpg
+streetwear-hoodie.jpg
+relaxed-joggers.jpg
+classic-denim-jacket.jpg
+
+Missing photos fall back to a clothing graphic.
