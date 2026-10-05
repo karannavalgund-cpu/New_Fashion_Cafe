@@ -2,7 +2,7 @@
 
 A modern static fashion-store website for **New Fashion Cafe**, a local clothing store in Hubli, Karnataka, India. Owner: Gopal.
 
-**Live demo:** https://your-project-name.vercel.app
+**Live demo:** https://newfashioncafe.vercel.app/
 
 > This is a demo website. Products, reviews, prices, phone number and email are sample data. Cart, wishlist, orders and payments are simulated in the browser. Nothing is sent to a server.
 
